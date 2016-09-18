@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="161348" started-at="2016-09-18T13:13:29Z" finished-at="2016-09-18T13:16:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="161348" started-at="2016-09-18T13:13:29Z" finished-at="2016-09-18T13:16:10Z">
+      <class name="script.Worldbank">
+        <test-method status="PASS" signature="preconfig()[pri:0, instance:script.Worldbank@1593948d]" name="preconfig" is-config="true" duration-ms="62095" started-at="2016-09-18T18:43:29Z" finished-at="2016-09-18T18:44:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preconfig -->
+        <test-method status="PASS" signature="testmain()[pri:0, instance:script.Worldbank@1593948d]" name="testmain" duration-ms="99209" started-at="2016-09-18T18:44:31Z" finished-at="2016-09-18T18:46:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmain -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:script.Worldbank@1593948d]" name="tearDown" is-config="true" duration-ms="21" started-at="2016-09-18T18:46:10Z" finished-at="2016-09-18T18:46:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- script.Worldbank -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
